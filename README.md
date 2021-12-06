@@ -4,9 +4,11 @@
 
 To prepare a report for a city school board, we are looking at standardized test data and funding information. The goal is to provide insight to help make strategic decisions.
 
-After analyzing the data, reading and math scores at Thomas High School indicated possible academic dishonesty. As a result, we updated the data, removing the suspect scores and replacing them with NaN. How does this affect the data?
+After analyzing the data, reading and math scores at Thomas High School indicated possible academic dishonesty. As a result, we updated the data, removing the suspect scores and replacing them with NaN. 
 
 ## Results
+
+How does this change the data?
 
 ### *Passing rates drop significantly, but average scores barely budge:*
 
